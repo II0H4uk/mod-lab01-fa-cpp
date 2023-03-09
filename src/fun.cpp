@@ -1,6 +1,6 @@
 // Copyright 2022 UNN-IASR
 #include "fun.h"
-#include <Math.h>
+#include <math.h>
 
 unsigned int faStr1(const char* str) {
     bool inWord = false, isGoodWord = true;
